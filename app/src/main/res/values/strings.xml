@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CustomDialogExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dialog_title">Do you really believe in love?</string>
+
+    <array
+        name="color_array">
+        <item>rad</item>>
+        <item>blue</item>>
+        <item>green</item>>
+    </array>
+
+
+</resources>
